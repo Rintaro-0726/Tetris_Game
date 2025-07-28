@@ -104,10 +104,6 @@ class Playfield {
     public boolean isOccupied(int x, int y) {
         return getCellState(x, y) != EMPTY_CELL;
     }
-
-    public void printGrid() {
-        // 必要に応じて実装してください
-    }
     
     public int getWidth() { return width; }
     public int getHeight() { return height; }
