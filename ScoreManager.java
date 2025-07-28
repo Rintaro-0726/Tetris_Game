@@ -1,5 +1,3 @@
-// ScoreManager.java
-
 class ScoreManager {
     private int score;
     private GameManager gameManager; 
