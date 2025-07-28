@@ -1,5 +1,3 @@
-// ShapeJ.java
-
 class ShapeJ extends Block {
     public ShapeJ(int x, int y) {
         super(x, y, ColorConstants.BLOCK_COLOR_J);
