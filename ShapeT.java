@@ -1,5 +1,3 @@
-// ShapeT.java
-
 class ShapeT extends Block {
     public ShapeT(int x, int y) {
         super(x, y, ColorConstants.BLOCK_COLOR_T);
