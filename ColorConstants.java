@@ -1,5 +1,3 @@
-// ColorConstants.java
-
 class ColorConstants {
     public static final String BRICK_COLOR = "#87cefa";
     public static final String BRICK_STROKE_COLOR = "#333333";
