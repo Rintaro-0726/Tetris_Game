@@ -61,8 +61,6 @@ public class GameManager {
         System.out.println("Game Over! Final Score: " + scoreManager.getScore());
     }
 
-    // 障害物関連のタイマーやメソッドは削除
-
     private void createNextBlock() {
         currentBlock = nextBlocks.poll();
         if (currentBlock == null) {
