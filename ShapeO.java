@@ -1,5 +1,3 @@
-// ShapeO.java
-
 class ShapeO extends Block {
     public ShapeO(int x, int y) {
         super(x, y, ColorConstants.BLOCK_COLOR_O);
