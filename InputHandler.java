@@ -1,4 +1,3 @@
-// InputHandler.java
 import processing.core.PApplet;
 
 class InputHandler {
