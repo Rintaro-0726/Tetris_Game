@@ -1,5 +1,3 @@
-// ShapeS.java
-
 class ShapeS extends Block {
     public ShapeS(int x, int y) {
         super(x, y, ColorConstants.BLOCK_COLOR_S);
