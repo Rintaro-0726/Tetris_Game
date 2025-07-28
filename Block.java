@@ -1,4 +1,3 @@
-// Block.java
 import processing.core.PApplet;
 
 abstract class Block {
