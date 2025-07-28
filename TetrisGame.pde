@@ -1,5 +1,3 @@
-//TetrisGame.pde
-
 GameManager gameManager;
 long lastDropTime = 0;
 long dropInterval = 1000;
