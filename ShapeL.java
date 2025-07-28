@@ -1,5 +1,3 @@
-// ShapeL.java
-
 class ShapeL extends Block {
     public ShapeL(int x, int y) {
         super(x, y, ColorConstants.BLOCK_COLOR_L);
