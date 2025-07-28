@@ -1,5 +1,3 @@
-// GameManager.java (修正後)
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
