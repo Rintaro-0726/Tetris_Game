@@ -1,5 +1,3 @@
-// ShapeZ.java
-
 class ShapeZ extends Block {
     public ShapeZ(int x, int y) {
         super(x, y, ColorConstants.BLOCK_COLOR_Z);
