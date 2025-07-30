@@ -9,7 +9,6 @@ class ColorConstants {
     public static final String BLOCK_COLOR_J = "#2391fe";
     public static final String BLOCK_COLOR_I = "#18dee9";
     public static final String BLOCK_COLOR_O = "#fcdd31";
-    public static final String OBSTACLE_COLOR = "#808080"; 
 
     public static final String[] BLOCK_COLORS = {
         BLOCK_COLOR_T, BLOCK_COLOR_L, BLOCK_COLOR_Z, BLOCK_COLOR_S,
