@@ -67,7 +67,6 @@ class Renderer {
         p.strokeWeight(0.5f);
         p.stroke(hexToPColor(ColorConstants.BLOCK_BORDER_COLOR));
 
-        // Obstacle判定を削除し、常にブロックの色で描画
         p.fill(hexToPColor(block.getColor()));
 
         int[][] shape = block.getShape();
