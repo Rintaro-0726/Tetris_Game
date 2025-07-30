@@ -119,7 +119,6 @@ class Renderer {
                     p.stroke(hexToPColor(ColorConstants.BRICK_STROKE_COLOR));
                     p.rect(xPos, yPos, cellSize, cellSize);
                 } else {
-                    // Obstacle判定を削除し、障害物色の描画はしない
                     p.fill(hexToPColor(ColorConstants.BLOCK_COLORS[cellType]));
                     p.stroke(hexToPColor(ColorConstants.BRICK_STROKE_COLOR));
                     p.rect(xPos, yPos, cellSize, cellSize);
@@ -188,9 +187,6 @@ class Renderer {
         p.textAlign(PConstants.LEFT, PConstants.BASELINE);
     }
 
-    public void playObstacleEffect() {
-        // 障害物効果を削除したため空にしました
-    }
 
     public void showGameOverMessage() {
         p.fill(255, 0, 0);
